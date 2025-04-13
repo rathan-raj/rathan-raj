@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rathan-raj
 - 👀 I’m interested in Data Analysis and Back-end development.
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
-- 💞️ I’m looking to collaborate on Data science porjects
+- 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me: rathanraj.dasari@gmail.com
 - 😄 Pronouns: ... he/him
 
